@@ -1,0 +1,60 @@
+Robbins, William
+34
+2.875
+Roberts, Brian
+23
+3.175
+Robertson, Lauri
+19
+2.925
+Robinson, Rick
+26
+3.215
+Neuberg, Laurie
+45
+3.998
+Salsa, Barbara
+18
+3.075
+Salbury, Lori
+23
+3.455
+Seaborn, Ann
+56
+1.785
+Simcox, Diane
+32
+2.175
+Sims, Kevin
+67
+3.235
+Ward, Michael
+19
+3.451
+Willis, Cheryl
+37
+3.576
+Springer, Tracy
+41
+2.305
+Pridgen, Mary
+19
+1.957
+Johnson, Steven
+34
+0.785
+Barone, Nancy
+25
+2.975
+Tooch, Tom
+26
+1.456
+Skinner, Patti
+47
+2.743
+Rockel, Diana
+56
+3.456
+Ritter, Kathy
+25
+3.989
